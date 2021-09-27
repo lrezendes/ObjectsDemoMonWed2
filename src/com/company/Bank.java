@@ -31,7 +31,7 @@ public class Bank {
    }
 
     private void addCustomer(Scanner inputReader) {
-       System.out.println("We got to add customer, which isn't implemented yet")
+       System.out.println("We got to add customer, which isn't implemented yet");
     }
 
     private void printMenu() {
